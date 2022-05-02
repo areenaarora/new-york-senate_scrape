@@ -21,7 +21,7 @@ I collected data about bills signed by the governor from [NYS senate's website](
 
 
 #### Analyses
-- Once extracted, I analysed the data in a separate notebook. The intial questions I wanted to ask were:
+Once extracted, I analysed the data in a separate notebook. The intial questions I wanted to ask were:
 1. How many laws were signed in each session?
 2. What were the major categories of laws signed?
 3. Are there certain laws more Republicans are sponsoring vs Democrats?
